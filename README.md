@@ -6,3 +6,5 @@
     - [coin_purple.png](https://github.com/RobuxRoll/casino-assets/blob/main/coin_purple.png)
     - [coin_gold.png](https://github.com/RobuxRoll/casino-assets/blob/main/coin_gold.png)
     - [coin_cyan.png](https://github.com/RobuxRoll/casino-assets/blob/main/coin_cyan.png)
+ - 12.04.2022
+    - [bg_demo.png](https://github.com/RobuxRoll/casino-assets/blob/main/bg_demo.png)
