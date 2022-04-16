@@ -8,3 +8,6 @@
     - [coin_cyan.png](https://github.com/RobuxRoll/casino-assets/blob/main/coin_cyan.png)
  - 12.04.2022
     - [bg_demo.png](https://github.com/RobuxRoll/casino-assets/blob/main/bg_demo.png)
+ - 16.04.2022
+    - [banner.png](https://github.com/RobuxRoll/casino-assets/blob/main/banner.png)
+    - [title.png](https://github.com/RobuxRoll/casino-assets/blob/main/title.png)
