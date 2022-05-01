@@ -19,3 +19,4 @@
  - 01.05.2022
     - [game_blackjack.png](https://github.com/RobuxRoll/casino-assets/blob/main/game_blackjack.png)
     - [game_roulette.png](https://github.com/RobuxRoll/casino-assets/blob/main/game_roulette.png)
+    - [bg_nebula.png](https://github.com/RobuxRoll/casino-assets/blob/main/bg_nebula.png)
