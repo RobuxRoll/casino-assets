@@ -16,3 +16,6 @@
  - 25.04.2022
     - update [cards/card_back.png](https://github.com/RobuxRoll/casino-assets/blob/main/cards/card_back.png)
     - update [bg_tile.png](https://github.com/RobuxRoll/casino-assets/blob/main/bg_tile.png)
+ - 16.04.2022
+    - [game_blackjack.png](https://github.com/RobuxRoll/casino-assets/blob/main/game_blackjack.png)
+    - [game_roulette.png](https://github.com/RobuxRoll/casino-assets/blob/main/game_roulette.png)
